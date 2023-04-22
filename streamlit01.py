@@ -9,7 +9,7 @@ import streamlit as st
 
 
 """
-# 广州城市理工学院
+# 广州城市理工学院机器人工程学院强基实验班
 [streamlit例子](https://share.streamlit.io/dengdqdq/streamlit-example)
 
 \r'<font color=#0099ff size=12 face="黑体">黑体</font>',unsafe_allow_html=True
