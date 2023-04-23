@@ -37,7 +37,7 @@ st.markdown(html_str, unsafe_allow_html=True)
 
 #with open("./MathApp.md", "r") as f:
 #    markdown_text = f.read()
-st.markdown(markdown_text)
+#st.markdown(markdown_text)
 
 
 
